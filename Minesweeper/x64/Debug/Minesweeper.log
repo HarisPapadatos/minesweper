@@ -1,0 +1,7 @@
+﻿  main.cpp
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Minesweeper\Minesweeper\main.cpp(77,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Minesweeper\Minesweeper\main.cpp(99,30): warning C4244: '=': conversion from 'float' to 'SHORT', possible loss of data
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Minesweeper\Minesweeper\main.cpp(100,30): warning C4244: '=': conversion from 'float' to 'SHORT', possible loss of data
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Minesweeper\Minesweeper\main.cpp(199,8): warning C4101: 'cc': unreferenced local variable
+E:\Χαραλαμπής\Άλλα\Coding\Projects\Minesweeper\Minesweeper\main.cpp(287): warning C4717: 'main': recursive on all control paths, function will cause runtime stack overflow
+  Minesweeper.vcxproj -> E:\Χαραλαμπής\Άλλα\Coding\Projects\Minesweeper\x64\Debug\Minesweeper.exe
